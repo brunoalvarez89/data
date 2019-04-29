@@ -1,4 +1,4 @@
-# Algorithms in Bioinformatics
+# Algorithms in Bioinformatics ##
 ## a
 
 1) Introduction to coding platform (fasta2scoremat)
