@@ -1,7 +1,7 @@
 # Algorithms in Bioinformatics ##
-## a
 
-1) Introduction to coding platform (fasta2scoremat)
+**Part 1**
+Introduction to coding platform (fasta2scoremat)
 
 2) PSSM (pep2mat, pep2score)
  
