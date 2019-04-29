@@ -1,6 +1,4 @@
 # Algorithms in Bioinformatics
-# Data for exercises
-# 2019
 
 1) Introduction to coding platform
 fasta2scoremat
