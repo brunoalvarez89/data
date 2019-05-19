@@ -2,7 +2,7 @@
 
 **Part 1:** Introduction to coding platform (fasta2scoremat)
 
-**Part 2:** PSSM construction (pep2mat, pep2score)
+**Part 2:** PSSM construction (pep2mat)
  
 **Part 3:** Sequence Alignment (smith_waterman_O2, smith_waterman_O3)
  
