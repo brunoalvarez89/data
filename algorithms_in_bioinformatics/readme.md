@@ -2,16 +2,16 @@
 
 **Part 1:** Introduction to coding platform (fasta2scoremat)
 
-**Part 2:** PSSM (pep2mat, pep2score)
+**Part 2:** PSSM construction (pep2mat, pep2score)
  
-**Part 3:** Alignment (fasta_align_O3, fasta_align, fasta_align_all)
+**Part 3:** Sequence Alignment (smith_waterman_O2, smith_waterman_O3)
  
-**Part 4:** Hobohm (hobohm1, hobohm2)
+**Part 4:** Clustering by Homology (hobohm_1, hobohm_2)
  
-**Part 5:** GibbsSampling (gibbs_sampler, cl2pred)
+**Part 5:** Heuristic PSSM construction(gibbs_sampler)
  
-**Part 6:** HMM (viterbi, posterior)
+**Part 6:** Hidden Markov Models (viterbi, posterior_decoding)
  
-**Part 7:** SMM (smm, smm_mc)
+**Part 7:** Stabilization Matrix Method (smm_monte_carlo, smm_gradient_descent)
  
-**Part 8:** ANN (seq2inp, nnforward, nnbackprop)
+**Part 8:** Artificial Neural Networks (encoding, forward_loop, back_propagation)
