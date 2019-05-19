@@ -8,7 +8,7 @@
  
 **Part 4:** Clustering by Homology (hobohm_1, hobohm_2)
  
-**Part 5:** Heuristic PSSM construction(gibbs_sampler)
+**Part 5:** Heuristic PSSM construction (gibbs_sampler)
  
 **Part 6:** Hidden Markov Models -HMM- (viterbi, posterior_decoding)
  
