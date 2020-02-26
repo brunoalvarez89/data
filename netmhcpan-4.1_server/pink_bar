@@ -1,0 +1,45 @@
+<table  bgcolor="#FF3399" width="100%" border="0"
+        cellpadding="0" cellspacing="0">
+<tr>
+
+<td bgcolor="#FF3399" width=8% align=center>    <!-- back to submission page -->
+  <a href="index.php" target="_self">
+    <font color="#ffffff"><b>< BACK</b></font>
+  </a>
+</td>
+
+<td width="2"><img src="/images/space_hvid.gif" width="2" height="18"></td>
+
+<td bgcolor="#FF3399" width=23% align=center>   <!-- instructions.html -->
+  <a href="instructions.html" target="_self">
+    <font color="#ffffff"><b>Instructions</b></font>
+  </a>
+</td>
+
+<td width="2"><img src="/images/space_hvid.gif" width="2" height="18"></td>
+
+<td bgcolor="#FF3399" width=23% align=center>   <!-- output.html -->
+  <a href="output.php" target="_self">
+    <font color="#ffffff"><b>Output format</b></font>
+  </a>
+</td>
+
+<td width="2"><img src="/images/space_hvid.gif" width="2" height="18"></td>
+
+<td bgcolor="#FF3399" width=23% align=center>   <!-- logos.php -->
+  <a href="logos_ps.php" target="_self">
+    <font color="#ffffff"><b>Motif viewer</b></font>
+  </a>
+</td>
+
+<td width="2"><img src="/images/space_hvid.gif" width="2" height="18"></td>
+
+<td bgcolor="#FF3399" width=23% align=center>   <!-- abstract.html -->
+  <a href="abstract.html" target="_self">
+    <font color="#ffffff"><b>Article abstract</b></font>
+  </a>
+</td>
+<td width="2"><img src="/images/space_hvid.gif" width="2" height="18"></td>
+
+</tr>
+</table>
