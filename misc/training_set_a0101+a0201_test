@@ -1,0 +1,9 @@
+peptide target_value mhc_label assay_type partition
+KSDSSGQEY       1.000000      HLA-A01:01    EL_SA       0
+STELNHLGY       0.000000      HLA-A01:01    EL_SA       0
+ILNNAELLKQIVY   1.000000      HLA-A01:01    EL_SA       1
+ASVSTVLTSKY     0.000000      HLA-A01:01    EL_SA       1
+KSDSSGQEY       1.000000      HLA-A02:01    EL_SA       0
+STELNHLGY       0.000000      HLA-A02:01    EL_SA       0
+ILNNAELLKQIVY   1.000000      HLA-A02:01    EL_SA       1
+ASVSTVLTSKY     0.000000      HLA-A02:01    EL_SA       1
